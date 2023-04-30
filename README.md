@@ -1,0 +1,1 @@
+## To detecmine if the object is far or near. This project focuses on pen and pencil detection using YOLOV5
