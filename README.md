@@ -4,4 +4,5 @@
 - cd yolov5
 - pip install -r requirements.txt
 - cd ..
+- cd distance_test
 - python detect_obj.py
