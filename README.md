@@ -1,5 +1,6 @@
 
-## This GitHub repository presents a deep learning-based approach for object distance estimation using the popular YOLO (You Only Look Once) algorithm. The YOLO model has been adapted and fine-tuned to not only detect objects in images but also estimate their distances from the camera. This enables a wide range of applications, such as autonomous navigation, surveillance, and robotics.
+## Object Distance Estimation 
+- This GitHub repository presents a deep learning-based approach for object distance estimation using the popular YOLO (You Only Look Once) algorithm. The YOLO model has been adapted and fine-tuned to not only detect objects in images but also estimate their distances from the camera without using any sensor. This enables a wide range of applications, such as autonomous navigation, surveillance, and robotics.
 
 ### Key Features:
 
